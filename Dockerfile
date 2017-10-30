@@ -1,6 +1,6 @@
 FROM alpine:3.6
 
-ENV CONFIG_JSON=none CERT_PEM=none KEY_PEM=none VER=2.44
+ENV CONFIG_JSON=none CERT_PEM=none KEY_PEM=none VER=2.45
 
 RUN apk add --no-cache --virtual .build-deps ca-certificates curl \
  && mkdir -m 777 /v2raybin \ 
