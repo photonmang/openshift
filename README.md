@@ -1,5 +1,6 @@
-# v2ray 部署在 openshift starter
+# v2ray 部署在 heroku [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/wangyi2005/v2ray-heroku)
 
+# v2ray 部署在 openshift starter
 openshift: 内存设置为256M，每 project 可配置 4 Pods。
 
 Docker 镜像：wangyi2005/v2ray:latest，wangyi2005/v2ray:core版本号
