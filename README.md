@@ -10,5 +10,8 @@ Docker 镜像：doudoubing/cundang:latest，doudoubing/cundang:core版本号
 用notepad++将上述变量中 \r\n 替换为\\n，变成一行，导入容器。
 
 客户端： android Actinium、windows v2ray 可用同一个服务端。
+
+
+
 youtube频道：https://www.youtube.com/channel/UClceV39J1Z_9D4_mHkBZrMg
 
